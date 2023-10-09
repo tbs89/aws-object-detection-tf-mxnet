@@ -124,7 +124,7 @@ This project is composed by several notebooks and folders organized in the follo
 
 6 - [<code>MXNEt *RecordIO* Engineering</code>](06-mxnet-rec-engineering.ipynb): Generation of <code>.rec</code> files for our model.
 
-7 - [<code>Hyperparameter Tuning - Model Deployment - Inference</code>](07-hyperparameter tuning-model-deployment-inference.ipynb): Hyperparameter tuning jobs, model deployment and inference to our new model.
+7 - [<code>Hyperparameter Tuning - Model Deployment - Inference</code>](07-hyperparameter-tuning-model-deployment-inference.ipynb): Hyperparameter tuning jobs, model deployment and inference to our new model.
 
 8 - [<code>Validation and comparison of TensorFlow and MXNet Models</code>](08-validation-results-analysis.ipynb): Analysis of inferences and model comparision
 
