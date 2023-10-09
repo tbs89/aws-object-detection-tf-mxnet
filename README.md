@@ -18,8 +18,7 @@ Tomás Baidal
 
 This is the capstone project repository for the AWS Machine Learning Engineer Nanodegree from Udacity. This project serves as a comprehensive endeavor focusing on the deployment and utilization of Machine Learning models for object detection within images. Specifically, it embraces Apache MXNet ResNet 50, an open-source deep learning software framework, used for training, and deploying deep neural networks. It is particularly noteworthy for its capability to define, train, and deploy deep neural networks in a versatile and efficient manner, primarily focusing on cloud environments.
 
-Our project consists in a model that can detect airplanes in images. Users can inference on the model using a deployed Python Dash App by uploading a picture and see the results.
-
+This project focuses on developing an object detection model using MXNet to identify airplanes in images, benchmarked against a TensorFlow reference model. Subsequently, the MXNet model was deployed on AWS, enabling real-time detection through a web application developed with Dash, AWS Lambda and AWS API Gateway.
 
 ## Project Structure Flowchart
 <br><br>
