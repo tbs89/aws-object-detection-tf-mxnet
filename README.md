@@ -137,7 +137,7 @@ This project is composed by several notebooks and folders organized in the follo
 
 ### Dash App
 
-Dash App will run when running the notebook [notebook](10-python-dash-app-development.ipynb)
+Dash App will run when running the notebook [<code>Python Dash App Development</code>](10-python-dash-app-development.ipynb)
 
 Images can be downloaded or dragged and dropped in the notebook and get inference:
 
