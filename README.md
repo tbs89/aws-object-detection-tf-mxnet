@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-# AWS Machine Learning Engineer
+# AWS Machine Learning Engineer Nanodegree
 ## Airplane Object Detection - Capstone Project
 
 ### Author
@@ -22,11 +22,11 @@ Our project consists in a model that can detect airplanes in images. Users can i
 
 
 ## Project Structure Flowchart
-
+<br><br>
 
 ![](data/docs/aws-object-detection-flowchart.jpg)
 
-
+<br><br>
 
 ## Stack
 
@@ -136,10 +136,25 @@ This project is composed by several notebooks and folders organized in the follo
 
 
 
+### Dash App
+
+Dash App will run when running the notebook [notebook](10-python-dash-app-development.ipynb)
+
+Images can be downloaded or dragged and dropped in the notebook and get inference:
+
+<img src="AWS/images/dash1.png" width="60%" height="40%"> <img src="AWS/images/dash2.png" width="50%" height="40%"> 
+
+
+Dash App will run on <code>http://127.0.0.1:8050/</code>:
+
+
+<img src="AWS/images/dash3.png" width="60%" height="40%"> <img src="AWS/images/dash4.png" width="50%" height="40%"> 
+
+
 
 ## IMPORTANT
 
-When creating the <code>.rec</code> files it is necessary to run the following commands before in order to use the script [<code>im2rec.py</code>](https://github.com/apache/mxnet/blob/master/tools/im2rec.py).
+When creating the <code>RecordIO</code> files it is necessary to run the following commands before in order to use the script [<code>im2rec.py</code>](https://github.com/apache/mxnet/blob/master/tools/im2rec.py).
 
 **The script code is licensed under the Apache License, Version 2.0 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0). We are grateful to the authors for making their code available.**
 
@@ -154,6 +169,11 @@ import sys
 !{sys.executable} -m pip install mxnet
 ```
 
+**It is also important to downgrade the numpy version when running the script as uses a deprecated numpy function**
+
+```bash
+numpy==1.23.0
+```
 
 
 
