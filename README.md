@@ -171,7 +171,7 @@ import sys
 **It is also important to downgrade the numpy version when running the script as uses a deprecated numpy function**
 
 ```bash
-numpy==1.23.0
+pip install numpy==1.23.0
 ```
 
 
