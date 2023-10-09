@@ -103,8 +103,8 @@ This project is composed by several notebooks and folders organized in the follo
 
 ### Folder Structure
  
-1. <code>utils</code>: folder with the functions, scripts and lambda used in the notebooks and pipeline.
-2. <code>data</code>: folder with the files generated, CSV's, snapshots, images and docs.
+1. <code>utils</code>: folder with the funtioncs and scripts used in the notebooks and pipeline.
+2. <code>data</code>: folder images and docs.
 3. <code>AWS</code>: folder with the snapshots and scripts related to AWS Lambda and API Gateway
 
 
