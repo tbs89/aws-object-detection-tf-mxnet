@@ -125,7 +125,7 @@ This project is composed by several notebooks and folders organized in the follo
 
 7 - [<code>Hyperparameter Tuning - Model Deployment - Inference</code>](07-hyperparameter-tuning-model-deployment-inference.ipynb): Hyperparameter tuning jobs, model deployment and inference to our new model.
 
-8 - [<code>Validation and Comparison of TensorFlow and MXNet Models</code>](08-validation-results-analysis.ipynb): Analysis of inferences and model comparision
+8 - [<code>Validation and Comparison of TensorFlow and MXNet Models</code>](08-validation-results-analysis%20(1).ipynb): Analysis of inferences and model comparision
 
 9 - [<code>Model Selection and Endpoint Deployment</code>](09-endpoint-deployment-lambda-code.ipynb): New model endpoint deployment and inference testing
 
