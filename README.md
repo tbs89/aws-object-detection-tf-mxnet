@@ -117,7 +117,7 @@ This project is composed by several notebooks and folders organized in the follo
 
 4 - [<code>Data Augmentation</code>](04-data-augmentation.ipynb): Data Augmentation process.
 
-  4.1 - [<code>Data Augmentation Demo</code>](04.1-data-augmentation-playground.ipynb): Explanation and demo of applied data augmention.
+  4.1 - [<code>Data Augmentation Demo</code>](04.1-data-augmentation-demo.ipynb): Explanation and demo of applied data augmention.
 
 5 - [<code>Benchmark Model</code>](05-benchmark-model.ipynb): TensorFlow model inference
 
